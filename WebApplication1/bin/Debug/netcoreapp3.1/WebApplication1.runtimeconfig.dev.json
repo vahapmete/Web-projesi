@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VMete\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VMete\\.nuget\\packages"
+    ]
+  }
+}
