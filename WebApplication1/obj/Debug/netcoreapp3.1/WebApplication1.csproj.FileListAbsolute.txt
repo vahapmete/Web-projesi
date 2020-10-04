@@ -106,7 +106,6 @@ C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
-C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Login.cshtml.g.cs
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeIndex.cshtml.g.cs
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EntityFramework.dll
@@ -180,6 +179,8 @@ C:\Users\VMete\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Register\RegisterIndex.cshtml.g.cs
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Product\ProductList.cshtml.g.cs
+C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Register\RegisterIndex.cshtml.g.cs
+C:\Users\VMete\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Login.cshtml.g.cs

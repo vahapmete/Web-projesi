@@ -9,6 +9,7 @@ using Entities.Concrete;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using MvcWebUI.Extensions;
 using MvcWebUI.Models;
@@ -19,7 +20,8 @@ namespace MvcWebUI.Controllers
 
     {
         NorthwindContext c = new NorthwindContext();
-        
+
+        [HttpGet]
         public IActionResult Login()
         {
             return View();
@@ -27,25 +29,12 @@ namespace MvcWebUI.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Login(Admin admin)
+        [ValidateAntiForgeryToken]
+        public IActionResult Login(Admin admin)
         {
+            
             var logger = c.Users.FirstOrDefault(x => x.Email == admin.Email && x.Pass == admin.Pass);
-            
-            if (logger != null)
-            {
-                HttpContext.Session.SetObject("logger", logger);
-                var claims = new List<Claim>
-                {
-                    new Claim(ClaimTypes.Name, admin.Email)
-                };
-                var userIdentity = new ClaimsIdentity(claims, "Login");
-                ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);
-                await HttpContext.SignInAsync(principal);
-
-                return RedirectToAction("HomeIndex", "Home");
-            }
-            
-            
+            HttpContext.Session.SetObject("logger", logger);
             return View();
 
         }
