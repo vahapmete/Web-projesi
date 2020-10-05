@@ -14,7 +14,7 @@ namespace DataAccess.Contcrete.EntityFramework.Contexts
                 @"Server=(localdb)\mssqllocaldb;initial catalog=northwind;integrated security=true");
         }
         public DbSet<Register> Users { get; set; }
-        public DbSet<Product> Products { get; set; }
+        public DbSet<Product> TblProducts { get; set; }
         public DbSet<Category> Categories { get; set; }
     }
 }

@@ -7015,11 +7015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Web-projesi\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Web-projesi\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\VMete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\obj\\",
+      "outputPath": "C:\\Web-projesi\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VMete\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7035,8 +7035,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\Core.csproj"
+            "C:\\Web-projesi\\Core\\Core.csproj": {
+              "projectPath": "C:\\Web-projesi\\Core\\Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NB3l9nbRTmseAFd40DiNiiqxZzG2SX5botriCqGN2Vw9KILOmjrsa+/OIe7NKZaZNTPCQqRoKa0XHM4KeiNrpQ==",
+  "dgSpecHash": "eemdA5v/xdprnqKyfbaoT0pJ3cqLe+P3EJSX26wr4etBk0Oh/F3FdZEvzEiT2ejh74AHiToTN4NfHBjomETx7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Web-projesi\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VMete\\.nuget\\packages\\bootstrap\\4.5.2\\bootstrap.4.5.2.nupkg.sha512",
     "C:\\Users\\VMete\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

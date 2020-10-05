@@ -6991,11 +6991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Web-projesi\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\Core.csproj",
+      "projectPath": "C:\\Web-projesi\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\VMete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\obj\\",
+      "outputPath": "C:\\Web-projesi\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VMete\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7039,11 +7039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Web-projesi\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Business\\Business.csproj",
+      "projectPath": "C:\\Web-projesi\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\VMete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Business\\obj\\",
+      "outputPath": "C:\\Web-projesi\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VMete\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7059,8 +7059,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj"
+            "C:\\Web-projesi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Web-projesi\\Entities\\Entities.csproj"
             }
           }
         }

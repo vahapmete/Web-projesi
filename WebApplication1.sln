@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A3CA5675-FA58-4E94-8BD4-0642C0C53544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{76C73D36-6386-4FBA-AD6B-E20E183E5C0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{76C73D36-6386-4FBA-AD6B-E20E183E5C0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{2FDAB2DB-0B2D-4EB2-8682-CED50593702E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{2FDAB2DB-0B2D-4EB2-8682-CED50593702E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{7A2AE57B-BFDC-4D16-9CD4-F1377D14E7C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{7A2AE57B-BFDC-4D16-9CD4-F1377D14E7C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C55674CE-79D2-4B75-9E06-0C7B444EF171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C55674CE-79D2-4B75-9E06-0C7B444EF171}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

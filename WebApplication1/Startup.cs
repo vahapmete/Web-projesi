@@ -61,7 +61,7 @@ namespace MvcWebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Admin}/{action=Login}/{id?}");
+                    pattern: "{controller=Product}/{action=ProductList}/{id?}");
             });
         }
     }

@@ -9561,11 +9561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Web-projesi\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Web-projesi\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\VMete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Web-projesi\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VMete\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9581,11 +9581,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\VMete\\source\\repos\\WebApplication1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\DataAccess\\DataAccess.csproj"
+            "C:\\Web-projesi\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Web-projesi\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj"
+            "C:\\Web-projesi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Web-projesi\\Entities\\Entities.csproj"
             }
           }
         }

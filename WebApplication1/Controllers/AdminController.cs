@@ -1,20 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.Eventing.Reader;
-using System.Linq;
-using System.Security.Claims;
-using System.Threading.Tasks;
+﻿using System.Linq;
 using DataAccess.Contcrete.EntityFramework.Contexts;
 using Entities.Concrete;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.Extensions.Logging;
 using MvcWebUI.Extensions;
-using MvcWebUI.Models;
 
-namespace MvcWebUI.Controllers
+namespace WebApplication1.Controllers
 {
     public class AdminController : Controller
 
@@ -32,11 +22,14 @@ namespace MvcWebUI.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Login(Admin admin)
         {
-            
+
             var logger = c.Users.FirstOrDefault(x => x.Email == admin.Email && x.Pass == admin.Pass);
             HttpContext.Session.SetObject("logger", logger);
+            if (logger != null && admin.Email==logger.Email && admin.Pass==logger.Pass)
+            {
+               return RedirectToAction("HomeIndex", "Home");
+            }
             return View();
-
         }
     }
 }

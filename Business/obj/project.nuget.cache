@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2UsgqpqAPQ8k5nF/NSP11BLZwjWuUXibacqS2xMUgbrPxXVybV/GWfg7fa14+gln+NebuNmejxusz3uBRdFOCg==",
+  "dgSpecHash": "OqqKGevGmYoFUoErDVAOFmQfMzh6FSJ/atNAX5OhV7pAqio+QxzpTSRqKMEplzfENa3lSpgcv/W7F7686Ylfkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Web-projesi\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VMete\\.nuget\\packages\\bootstrap\\4.5.2\\bootstrap.4.5.2.nupkg.sha512",
     "C:\\Users\\VMete\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

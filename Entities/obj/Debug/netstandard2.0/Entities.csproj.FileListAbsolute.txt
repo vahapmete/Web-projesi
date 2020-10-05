@@ -10,3 +10,15 @@ C:\Users\VMete\source\repos\WebApplication1\Entities\obj\Debug\netstandard2.0\En
 C:\Users\VMete\source\repos\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 C:\Users\VMete\source\repos\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\VMete\source\repos\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Web-projesi\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Web-projesi\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Web-projesi\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Web-projesi\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Web-projesi\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Web-projesi\Entities\obj\Debug\netstandard2.0\Entities.pdb

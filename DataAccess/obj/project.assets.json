@@ -7040,11 +7040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Web-projesi\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Web-projesi\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\VMete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\DataAccess\\obj\\",
+      "outputPath": "C:\\Web-projesi\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VMete\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7060,11 +7060,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Core\\Core.csproj"
+            "C:\\Web-projesi\\Core\\Core.csproj": {
+              "projectPath": "C:\\Web-projesi\\Core\\Core.csproj"
             },
-            "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\VMete\\source\\repos\\WebApplication1\\Entities\\Entities.csproj"
+            "C:\\Web-projesi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Web-projesi\\Entities\\Entities.csproj"
             }
           }
         }
