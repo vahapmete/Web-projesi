@@ -371,3 +371,4 @@ C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Product\View.cshtml.g.cs
+C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
