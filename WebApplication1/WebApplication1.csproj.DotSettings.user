@@ -1,3 +1,17 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CJS_005CJQUERY_002D3_002E1_002E1_002EMIN_002EJS/@EntryIndexedValue">wwwroot\js\jquery-3.1.1.min.js</s:String>
-	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CJS_005CJQUERY_002D3_002E1_002E1_002EMIN_002EJS/@EntryIndexedValue">wwwroot\js\jquery-3.1.1.min.js</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CPRODUCT_005CADD/@EntryIndexedValue">wwwroot\Product\Add</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CPRODUCT_005CDELETE/@EntryIndexedValue">wwwroot\Product\Delete</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CPRODUCT_005CGETPRODUCT/@EntryIndexedValue">wwwroot\Product\GetProduct</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CPRODUCT_005CPRODUCTLIST/@EntryIndexedValue">wwwroot\Product\ProductList</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CSWEETALERT2_002EALL_002EMIN_002EJS/@EntryIndexedValue">wwwroot\sweetalert2.all.min.js</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CSWEETALERT2_002EMIN_002ECSS/@EntryIndexedValue">wwwroot\sweetalert2.min.css</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=WWWROOT_005CSWEETALERT2_002EMIN_002EJS/@EntryIndexedValue">wwwroot\sweetalert2.min.js</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CJS_005CJQUERY_002D3_002E1_002E1_002EMIN_002EJS/@EntryIndexedValue">wwwroot\js\jquery-3.1.1.min.js</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CPRODUCT_005CADD/@EntryIndexedValue">wwwroot\Product\Add</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CPRODUCT_005CDELETE/@EntryIndexedValue">wwwroot\Product\Delete</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CPRODUCT_005CGETPRODUCT/@EntryIndexedValue">wwwroot\Product\GetProduct</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CPRODUCT_005CPRODUCTLIST/@EntryIndexedValue">wwwroot\Product\ProductList</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CSWEETALERT2_002EALL_002EMIN_002EJS/@EntryIndexedValue">wwwroot\sweetalert2.all.min.js</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CSWEETALERT2_002EMIN_002ECSS/@EntryIndexedValue">wwwroot\sweetalert2.min.css</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=WWWROOT_005CSWEETALERT2_002EMIN_002EJS/@EntryIndexedValue">wwwroot\sweetalert2.min.js</s:String></wpf:ResourceDictionary>

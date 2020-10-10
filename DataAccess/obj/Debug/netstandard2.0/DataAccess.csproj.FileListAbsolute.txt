@@ -22,7 +22,7 @@ C:\Web-projesi\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
-C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Web-projesi\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

@@ -343,8 +343,6 @@ C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
-C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
@@ -372,3 +370,15 @@ C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Product\View.cshtml.g.cs
 C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Product\Add.cshtml.g.cs
+C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Product\GetProduct.cshtml.g.cs
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Http.Common.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Mvc.Extensions.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\Autofac.Integration.Mvc.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Web-projesi\WebApplication1\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Web-projesi\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache

@@ -19,7 +19,7 @@
             return false;
         }
         el.style.pointerEvents = 'auto';
-        el.style.pointerEvents = 'x';
+        el.style.pointerEvents = 'visibleFill';
         docEl.appendChild(el);
         var supports = window.getComputedStyle && window.getComputedStyle(el, '').pointerEvents === 'auto';
         docEl.removeChild(el);

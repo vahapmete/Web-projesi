@@ -8948,12 +8948,9 @@ body.skin-2 #wrapper {
   border: none !important;
 }
 .skin-2 #page-wrapper {
-  background: #f6f6f6;
-  background: -webkit-radial-gradient(center, ellipse cover, #f6f6f6 20%, #d5d5d5 100%);
-  background: -o-radial-gradient(center, ellipse cover, #f6f6f6 20%, #d5d5d5 100%);
-  background: -ms-radial-gradient(center, ellipse cover, #f6f6f6 20%, #d5d5d5 100%);
-  background: radial-gradient(ellipse at center, #f6f6f6 20%, #d5d5d5 100%);
-  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#f6f6f6, endColorstr=#d5d5d5)";
+    background: #f6f6f6;
+    background: radial-gradient(ellipse at center, #f6f6f6 20%, #d5d5d5 100%);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#f6f6f6, endColorstr=#d5d5d5)";
 }
 .skin-2 .ibox-title,
 .skin-2 .ibox-content {

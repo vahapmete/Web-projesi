@@ -8,3 +8,13 @@ C:\Users\VMete\source\repos\WebApplication1\Business\obj\Debug\netstandard2.0\Bu
 C:\Users\VMete\source\repos\WebApplication1\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\Users\VMete\source\repos\WebApplication1\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 C:\Users\VMete\source\repos\WebApplication1\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Web-projesi\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Web-projesi\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Web-projesi\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Web-projesi\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Web-projesi\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Web-projesi\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Web-projesi\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Web-projesi\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Web-projesi\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Web-projesi\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete

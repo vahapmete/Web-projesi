@@ -101,7 +101,7 @@
 
         .chosen-container .chosen-results-scroll span {
             display: inline-block;
-            height: 1.42857;
+            height: 1.4px;
             text-indent: -5000px;
             width: 9px;
         }

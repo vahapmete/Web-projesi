@@ -9,8 +9,6 @@ namespace Entities.Concrete
     public class Product:IEntity
     {
         [Key]
-
-
         public int  ProductId { get; set; }
 
         [Required(ErrorMessage = "Please enter the product name")]
@@ -27,5 +25,7 @@ namespace Entities.Concrete
 
         [Required(ErrorMessage = "Please enter how many pieces are in stock.")]
         public int  InStock { get; set; }
+
+        public DateTime? DateTime { get; set; }
     }
 }

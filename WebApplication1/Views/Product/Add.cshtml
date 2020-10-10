@@ -419,26 +419,27 @@
                                 <form method="post" class=" form-control">
                                     <div>
                                         <label>Product name...</label>
-                                        <input type="text" class="form-control" name="ProductName" />
+                                        <input type="text" class="form-control" name="ProductName" required="" />
                                     </div>
                                     <div>
                                         <label>Product code...</label>
-                                        <input type="text" class="form-control" name="ProductCode" />
+                                        <input type="text" class="form-control" name="ProductCode" required="" maxlength="8" />
                                     </div>
                                     <div>
                                         <label>Explain...</label>
-                                        <input type="text" class="form-control" name="Explain" />
+                                        <input type="text" class="form-control" name="Explain" required="" />
                                     </div>
                                     <div>
                                         <label>Price...</label>
-                                        <input type="text" class="form-control" name="Price" />
+                                        <input type="text" class="form-control" name="Price" required="" />
                                     </div>
                                     <div>
                                         <label>In stock...</label>
-                                        <input type="text" class="form-control" name="InStock" />
+                                        <input type="text" class="form-control" name="InStock" required=""/>
                                     </div>
                                     <div style="margin-top: 15px">
-                                        <button class="btn btn-info"> Add</button>
+                                        <button class="btn btn-success"> Add</button>
+                                        <a href="~/Product/ProductList/" class="btn btn-info">View</a>
                                     </div>
                                 </form>
 
